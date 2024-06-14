@@ -13,7 +13,7 @@ Some of my favorite tools and technologies are:
 
 ## Projects
 
-I spend a big chunk of my free time taking care of my plants and learning about gardening. <br>
+I spend a big chunk of my free time taking care of my plants and learning about gardening. <br> <br>
 <img  height=300px, src="https://raw.githubusercontent.com/SaroshManzoor/SaroshManzoor/main/resources/african_violet.jpeg"/> <img  height=300px, src="https://raw.githubusercontent.com/SaroshManzoor/SaroshManzoor/main/resources/peace_lily.jpeg"/>
 
 Often times I need specific ansewrs which can be furstrating to find on the internet. So I <br>
